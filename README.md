@@ -131,9 +131,7 @@ The application will display the uploaded image and show the model's prediction 
 ![Application Output](a.png)
 ```
 
-### Example
 
-![Application Output](a.png)
 
 ## Important Note
 
